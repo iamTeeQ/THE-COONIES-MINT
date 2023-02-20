@@ -1,0 +1,44 @@
+[
+    {
+        "name": "0",
+        "token_name": "The Coonnies #0",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmfH7xMaPjhYFRAGgEhzsF5ypooxCmNYFxmif2qB3mamRB",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/Qmb2dUeEAF9YRKsotJjeDZFBbXyADuviKPaTrsR3ESsZiJ",
+        "onChain": true
+    },
+    {
+        "name": "1",
+        "token_name": "The Coonnies #1",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmQr8VCgyKDzhRgfodDccMrZVVH2DaMDQPJgFhHNczUPoj",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/QmUpnn5PHGKCCN1cPi4ZnHn6nh5AuakR2k4tQNT9rFCgdw",
+        "onChain": true
+    },
+    {
+        "name": "2",
+        "token_name": "The Coonnies #2",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmVSKxXQMikZKLnvG6ggmU7n5EYUay7cii9hrmBgQPve65",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/QmcQxmsmKJfeoGgoeZ2g7d8qn9K4D1qAVEzcX1kNs7UNjP",
+        "onChain": true
+    },
+    {
+        "name": "3",
+        "token_name": "The Coonnies #3",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmRAKf1SgU234n2WBzJoLuDjRhxTCoGTFEfKfM6ihojHo3",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/QmTbaYMGSUz31VFu4zW1YJHhCBLUGdTxidMzfyPB9iRSnW",
+        "onChain": true
+    },
+    {
+        "name": "4",
+        "token_name": "The Coonnies #4",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmYKTE8aD2fSmCUCqPsomvkY7915y51NKg4Rq4KaTdJtBa",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/QmNxbBqn9d8HZRULQbX4oZSbQdLc1tcURdPYz7kEYhhnSj",
+        "onChain": true
+    },
+    {
+        "name": "5",
+        "token_name": "The Coonnies #5",
+        "uri": "https://cloudflare-ipfs.com/ipfs/QmXJ4xs634cpW3niVYDfyRFcta1PbS67Qx6AyF7bk8yUL7",
+        "metadata_uri": "https://cloudflare-ipfs.com/ipfs/QmZ4FUc8dV38esp5Abu6hWMpAXsMPscR8EhUpYwLeRx9cV",
+        "onChain": true
+    }
+]

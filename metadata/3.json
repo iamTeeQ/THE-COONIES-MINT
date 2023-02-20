@@ -1,0 +1,71 @@
+{
+    "name": "The Coonnies #3",
+    "symbol": "COON",
+    "description": "5k Special NFT collections of the coolest, cooniest $COONS on the Aptos Blockchain",
+    "seller_fee_basis_points": 6000,
+    "image": "https://cloudflare-ipfs.com/ipfs/QmRAKf1SgU234n2WBzJoLuDjRhxTCoGTFEfKfM6ihojHo3",
+    "external_url": "https://thecoonnies.com",
+    "edition": 3,
+    "creator": "Asugh Iyorlaha TQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Circuit - II"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blubber - Waai - VI"
+        },
+        {
+            "trait_type": "Feet",
+            "value": "Robo - Brix - II"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Symbrachydactyly - Pico - II"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Eyuwa - Arc - V"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Dome - V"
+        },
+        {
+            "trait_type": "Chest",
+            "value": "Atches - V"
+        },
+        {
+            "trait_type": "Facial Expression",
+            "value": "Yawning Face "
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Crown - VI"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Purple Escavator Shovel "
+        }
+    ],
+    "collection": {
+        "name": "The Coonnies",
+        "family": "Raccoon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xa743d4cdf5a7e8f6423e445cd28da63704f324fda636c205e97b0a5bcb21afbd",
+                "share": 60
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "name": "The Coonnies #5",
+    "symbol": "COON",
+    "description": "5k Special NFT collections of the coolest, cooniest $COONS on the Aptos Blockchain",
+    "seller_fee_basis_points": 6000,
+    "image": "https://cloudflare-ipfs.com/ipfs/QmXJ4xs634cpW3niVYDfyRFcta1PbS67Qx6AyF7bk8yUL7",
+    "external_url": "https://thecoonnies.com",
+    "edition": 5,
+    "creator": "Asugh Iyorlaha TQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Luna - I"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Jagged - PrinX - III"
+        },
+        {
+            "trait_type": "Feet",
+            "value": "Robo - StriX - III"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Robo Hands - Brix  - II"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Eyuwa - Arc - V"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Cube - II"
+        },
+        {
+            "trait_type": "Chest",
+            "value": "Brix - VI"
+        },
+        {
+            "trait_type": "Facial Expression",
+            "value": "Crossed-Out Eyes with Tongue Out  "
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Helmet - II"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Rodio Boomer Microphone "
+        }
+    ],
+    "collection": {
+        "name": "The Coonnies",
+        "family": "Raccoon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xa743d4cdf5a7e8f6423e445cd28da63704f324fda636c205e97b0a5bcb21afbd",
+                "share": 60
+            }
+        ]
+    }
+}

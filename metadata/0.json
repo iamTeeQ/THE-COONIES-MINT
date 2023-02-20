@@ -1,0 +1,71 @@
+{
+    "name": "The Coonnies #0",
+    "symbol": "COON",
+    "description": "5k Special NFT collections of the coolest, cooniest $COONS on the Aptos Blockchain",
+    "seller_fee_basis_points": 6000,
+    "image": "https://cloudflare-ipfs.com/ipfs/QmfH7xMaPjhYFRAGgEhzsF5ypooxCmNYFxmif2qB3mamRB",
+    "external_url": "https://thecoonnies.com",
+    "edition": 0,
+    "creator": "Asugh Iyorlaha TQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green Gradient - I"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Blubber - Waai - V"
+        },
+        {
+            "trait_type": "Feet",
+            "value": "Hoofie - PrinX - II"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Mild Symbrachydactyly - Waai - IV"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Vuma - Dome - II"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Zima - II"
+        },
+        {
+            "trait_type": "Chest",
+            "value": "Atches - I"
+        },
+        {
+            "trait_type": "Facial Expression",
+            "value": "Grinning Face with Big Eyes "
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Crown - VI"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Wizard Broom  "
+        }
+    ],
+    "collection": {
+        "name": "The Coonnies",
+        "family": "Raccoon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xa743d4cdf5a7e8f6423e445cd28da63704f324fda636c205e97b0a5bcb21afbd",
+                "share": 60
+            }
+        ]
+    }
+}

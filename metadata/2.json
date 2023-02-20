@@ -1,0 +1,71 @@
+{
+    "name": "The Coonnies #2",
+    "symbol": "COON",
+    "description": "5k Special NFT collections of the coolest, cooniest $COONS on the Aptos Blockchain",
+    "seller_fee_basis_points": 6000,
+    "image": "https://cloudflare-ipfs.com/ipfs/QmVSKxXQMikZKLnvG6ggmU7n5EYUay7cii9hrmBgQPve65",
+    "external_url": "https://thecoonnies.com",
+    "edition": 2,
+    "creator": "Asugh Iyorlaha TQ",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Luna - II"
+        },
+        {
+            "trait_type": "Tail",
+            "value": "Fuzzy - PrinX - II"
+        },
+        {
+            "trait_type": "Feet",
+            "value": "Robo - Brix - I"
+        },
+        {
+            "trait_type": "Hands",
+            "value": "Cleft Hands - Atches - IV"
+        },
+        {
+            "trait_type": "Ears",
+            "value": "Kokobu -Zima - III"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Orion - III"
+        },
+        {
+            "trait_type": "Chest",
+            "value": "Dome - II"
+        },
+        {
+            "trait_type": "Facial Expression",
+            "value": "Mouth Opened with Smirking Face "
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Sailor Hat - II"
+        },
+        {
+            "trait_type": "Item",
+            "value": "Coon Coin With Briefcase - III"
+        }
+    ],
+    "collection": {
+        "name": "The Coonnies",
+        "family": "Raccoon"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "0xa743d4cdf5a7e8f6423e445cd28da63704f324fda636c205e97b0a5bcb21afbd",
+                "share": 60
+            }
+        ]
+    }
+}
